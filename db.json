@@ -28,6 +28,27 @@
       "endTime": "2020-03-12T11:00:00.000Z",
       "id": 4
     },
+    {
+      "client": "Port of Rotterdam",
+      "activity": "Design",
+      "startTime": "2020-03-12T08:00:00.000Z",
+      "endTime": "2020-03-12T11:00:00.000Z",
+      "id": 5
+    },
+    {
+      "client": "Humanoids",
+      "activity": "Design",
+      "startTime": "2020-03-09T08:00:00.000Z",
+      "endTime": "2020-03-09T11:00:00.000Z",
+      "id": 6
+    },
+    {
+      "client": "Port of Rotterdam",
+      "activity": "Design",
+      "startTime": "2020-03-09T08:00:00.000Z",
+      "endTime": "2020-03-09T11:00:00.000Z",
+      "id": 7
+    }
   ],
   "team-members": [
     {
@@ -42,6 +63,22 @@
       "currentClient": "Humanoids",
       "avatar": "/static/niels-68409a5c90a17a437dda8fa8de8a328a.jpg",
       "id": 7
+    },
+    {
+      "firstName": "Bibi",
+      "lastName": "Garcia",
+      "emailAddress": "bib.garcia@gmail.com",
+      "bio": "Biography of Bibi",
+      "address": "Peetersdreef 132",
+      "postalCode": "3562 CG",
+      "locality": "Utrecht",
+      "role": "Front-end Developer",
+      "currentClient": "Humanoids",
+      "twitter": "bibinavasgarcia",
+      "facebook": "/bibinavasgarcia",
+      "startDate": "2020-03-09",
+      "avatar": "/static/bibi-2cc8f240db1bef87c155f8fe28fb9b3d.jpg",
+      "id": 2
     },
     {
       "firstName": "Niels",
@@ -86,6 +123,19 @@
       "currentClient": "Huma",
       "avatar": "/static/bibi-2cc8f240db1bef87c155f8fe28fb9b3d.jpg",
       "id": 8
+    },
+    {
+      "firstName": "Bibi",
+      "lastName": "Garcia",
+      "emailAddress": "bieb.garcia@gmail.com",
+      "address": "Peetersdreef 132",
+      "postalCode": "3562 CG",
+      "locality": "Utrecht",
+      "role": "Front-end Developer",
+      "startDate": "2020-03-09",
+      "currentClient": "Humanoids",
+      "avatar": "/static/bibi-2cc8f240db1bef87c155f8fe28fb9b3d.jpg",
+      "id": 9
     },
     {
       "firstName": "Bibi",
@@ -144,4 +194,3 @@
     }
   ]
 }
-
