@@ -153,7 +153,7 @@
   ],
   "clients": [
     {
-      "companyName": "Humanoids",
+      "name": "Humanoids",
       "contactPerson": "Maarten Hoogvliet",
       "emailAddress": "maarten@humanoids.com",
       "startDateContract": "2018-03-09",
@@ -161,34 +161,34 @@
       "address": "Stationsplein 45",
       "postalCode": "3013 AK",
       "locality": "Rotterdam",
-      "website": "https://humanoids.nl",
-      "companyLogo": "/static/humanoids-dc8b3c30677b503bbcdddf782f42f1fc.jpg",
+      "website": "https://www.humanoids.nl",
+      "logo": "/static/humanoids-dc8b3c30677b503bbcdddf782f42f1fc.jpg",
       "id": 1
     },
     {
-      "companyName": "Lely",
+      "name": "Lely",
       "contactPerson": "Pietje Puk",
       "emailAddress": "pietjepuk@lely.com",
-      "website": "http://lely.com",
+      "website": "http://www.lely.com",
       "startDateContract": "2019-02-09",
       "endDateContract": "2022-02-09",
       "address": "Somewhere 154",
       "postalCode": "5678 DE",
       "locality": "Rotterdam",
-      "companyLogo": "/static/humanoids-dc8b3c30677b503bbcdddf782f42f1fc.jpg",
+      "logo": "/static/lely-a1cf9edcdf1c41a27dfb3c8c59341b79.png",
       "id": 2
     },
     {
-      "companyName": "Port of Rotterdam",
+      "name": "Port of Rotterdam",
       "contactPerson": "Pluk vd Petteflat",
       "emailAddress": "pluvdpetteflat@portofrotterdam.nl",
-      "website": "http://portofrotterdam.com",
+      "website": "http://www.portofrotterdam.com",
       "startDateContract": "2018-03-09",
       "endDateContract": "",
       "address": "Ergens",
       "postalCode": "8909 GR",
       "locality": "Rotterdam",
-      "companyLogo": "/static/humanoids-dc8b3c30677b503bbcdddf782f42f1fc.jpg",
+      "logo": "/static/humanoids-dc8b3c30677b503bbcdddf782f42f1fc.jpg",
       "additionalInfo": "Port of Rotterdam is een havenbedrijf gevestigd in Rotterdam die hele leuke dingen doet, we maken hier een leuke app voor",
       "id": 3
     }
